@@ -1,2 +1,85 @@
 # Leetcode-Soultions
-Topic-wise LeetCode solutions covering arrays,strings, DP, graphs, trees,, and more.
+Topic-wise LeetCode solutions covering arrays,strings, DP, graphs, trees,, and more in JAVA language.
+
+---
+
+## 📌 About
+
+This repository contains solutions to LeetCode problems covering various DSA topics including:
+
+- Arrays
+- Strings
+- Linked Lists
+- Binary Search
+- Trees
+- Graphs
+- Dynamic Programming
+- Greedy
+- Sliding Window
+- Backtracking
+- Recursion
+- Heap / Priority Queue
+- Stack & Queue
+
+The goal of this repository is to:
+- strengthen problem-solving skills
+- prepare for technical interviews
+- track coding consistency
+
+---
+
+## 📂 Repository Structure
+
+LeetCode-Solutions/
+│
+├── Arrays/
+├── Strings/
+├── Linked Lists/
+├── Binary Search/
+├── Trees/
+├── Graphs/
+├── Dynamic Programming/
+├── Greedy/
+├── Sliding Window/
+├── Backtracking/
+└── Recursion/
+```
+
+---
+
+## 🚀 Languages Used
+
+- Java
+
+---
+
+## 💡 Features
+
+- Topic-wise organization
+- Optimized approaches
+- Clean and readable code
+- Regularly updated solutions
+
+---
+
+## 🎯 Learning Focus
+
+This repository focuses on:
+- Pattern recognition
+- Time & Space Complexity optimization
+- Interview preparation
+
+---
+
+## 📈 Progress
+
+Problems are continuously added and updated as part of daily DSA practice and interview preparation.
+
+---
+
+## 🔗 Connect With Me
+
+- LeetCode: https://leetcode.com/sunid_hii1103/
+
+---
+
