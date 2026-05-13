@@ -28,8 +28,10 @@ The goal of this repository is to:
 
 ---
 
+
 ## 📂 Repository Structure
 
+```text
 LeetCode-Solutions/
 │
 ├── Arrays/
@@ -47,7 +49,7 @@ LeetCode-Solutions/
 
 ---
 
-## 🚀 Languages Used
+## 🚀 Language Used
 
 - Java
 
