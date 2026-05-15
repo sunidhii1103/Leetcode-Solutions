@@ -92,6 +92,7 @@ Problems are continuously added and updated as part of daily DSA practice and in
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0344-reverse-string](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -101,8 +102,13 @@ Problems are continuously added and updated as part of daily DSA practice and in
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0015-3sum) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
