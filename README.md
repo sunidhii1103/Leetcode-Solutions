@@ -105,6 +105,7 @@ Problems are continuously added and updated as part of daily DSA practice and in
 | [0015-3sum](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0169-majority-element](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 ## Greedy
@@ -115,6 +116,7 @@ Problems are continuously added and updated as part of daily DSA practice and in
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0169-majority-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -134,5 +136,14 @@ Problems are continuously added and updated as part of daily DSA practice and in
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
