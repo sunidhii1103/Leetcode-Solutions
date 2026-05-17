@@ -93,6 +93,7 @@ Problems are continuously added and updated as part of daily DSA practice and in
 | ------- |
 | [0011-container-with-most-water](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0015-3sum) |
+| [0287-find-the-duplicate-number](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -106,6 +107,7 @@ Problems are continuously added and updated as part of daily DSA practice and in
 | [0033-search-in-rotated-sorted-array](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0169-majority-element](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0287-find-the-duplicate-number](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
@@ -122,6 +124,7 @@ Problems are continuously added and updated as part of daily DSA practice and in
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Stack
 |  |
 | ------- |
@@ -156,4 +159,8 @@ Problems are continuously added and updated as part of daily DSA practice and in
 |  |
 | ------- |
 | [2965-find-missing-and-repeated-values](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
