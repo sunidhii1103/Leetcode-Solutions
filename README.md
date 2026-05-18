@@ -156,6 +156,7 @@ Problems are continuously added and updated as part of daily DSA practice and in
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [2965-find-missing-and-repeated-values](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -165,4 +166,8 @@ Problems are continuously added and updated as part of daily DSA practice and in
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
