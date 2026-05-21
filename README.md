@@ -122,6 +122,7 @@ Problems are continuously added and updated as part of daily DSA practice and in
 | [0287-find-the-duplicate-number](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Greedy
 |  |
@@ -159,6 +160,7 @@ Problems are continuously added and updated as part of daily DSA practice and in
 | [0003-longest-substring-without-repeating-characters](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
@@ -203,4 +205,5 @@ Problems are continuously added and updated as part of daily DSA practice and in
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
