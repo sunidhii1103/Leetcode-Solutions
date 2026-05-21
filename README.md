@@ -96,6 +96,7 @@ Problems are continuously added and updated as part of daily DSA practice and in
 | [0018-4sum](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [0234-palindrome-linked-list](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
@@ -149,6 +150,7 @@ Problems are continuously added and updated as part of daily DSA practice and in
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0234-palindrome-linked-list](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
@@ -193,6 +195,7 @@ Problems are continuously added and updated as part of daily DSA practice and in
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0050-powx-n) |
+| [0234-palindrome-linked-list](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Sliding Window
 |  |
 | ------- |
@@ -213,5 +216,6 @@ Problems are continuously added and updated as part of daily DSA practice and in
 ## Linked List
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
