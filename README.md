@@ -98,6 +98,7 @@ Problems are continuously added and updated as part of daily DSA practice and in
 | [0075-sort-colors](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
 | ------- |
@@ -209,4 +210,8 @@ Problems are continuously added and updated as part of daily DSA practice and in
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
