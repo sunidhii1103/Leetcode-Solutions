@@ -123,6 +123,7 @@ Problems are continuously added and updated as part of daily DSA practice and in
 | [0084-largest-rectangle-in-histogram](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0169-majority-element](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
@@ -146,6 +147,7 @@ Problems are continuously added and updated as part of daily DSA practice and in
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Stack
 |  |
@@ -174,6 +176,7 @@ Problems are continuously added and updated as part of daily DSA practice and in
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Counting
 |  |
 | ------- |
@@ -188,6 +191,7 @@ Problems are continuously added and updated as part of daily DSA practice and in
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0079-word-search) |
+| [0240-search-a-2d-matrix-ii](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
