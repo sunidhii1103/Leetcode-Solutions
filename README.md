@@ -110,6 +110,7 @@ Problems are continuously added and updated as part of daily DSA practice and in
 | [0151-reverse-words-in-a-string](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0344-reverse-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Array
 |  |
 | ------- |
@@ -159,6 +160,7 @@ Problems are continuously added and updated as part of daily DSA practice and in
 | [0234-palindrome-linked-list](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -233,4 +235,5 @@ Problems are continuously added and updated as part of daily DSA practice and in
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
