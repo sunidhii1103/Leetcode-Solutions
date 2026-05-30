@@ -116,6 +116,7 @@ Problems are continuously added and updated as part of daily DSA practice and in
 | [0018-4sum](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0054-spiral-matrix](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0075-sort-colors) |
@@ -189,6 +190,7 @@ Problems are continuously added and updated as part of daily DSA practice and in
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -225,4 +227,8 @@ Problems are continuously added and updated as part of daily DSA practice and in
 | [0141-linked-list-cycle](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
