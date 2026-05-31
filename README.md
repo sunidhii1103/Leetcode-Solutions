@@ -226,6 +226,7 @@ Problems are continuously added and updated as part of daily DSA practice and in
 |  |
 | ------- |
 | [0079-word-search](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0079-word-search) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -237,10 +238,15 @@ Problems are continuously added and updated as part of daily DSA practice and in
 | [0141-linked-list-cycle](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
