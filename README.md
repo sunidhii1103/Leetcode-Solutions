@@ -109,6 +109,7 @@ Problems are continuously added and updated as part of daily DSA practice and in
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0242-valid-anagram) |
@@ -124,6 +125,7 @@ Problems are continuously added and updated as part of daily DSA practice and in
 | [0018-4sum](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0049-group-anagrams](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
@@ -147,6 +149,7 @@ Problems are continuously added and updated as part of daily DSA practice and in
 | ------- |
 | [0015-3sum](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0169-majority-element) |
@@ -176,6 +179,7 @@ Problems are continuously added and updated as part of daily DSA practice and in
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0169-majority-element) |
