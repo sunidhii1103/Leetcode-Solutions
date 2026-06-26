@@ -139,6 +139,7 @@ Problems are continuously added and updated as part of daily DSA practice and in
 | [0496-next-greater-element-i](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Greedy
 |  |
@@ -161,6 +162,7 @@ Problems are continuously added and updated as part of daily DSA practice and in
 | [0074-search-a-2d-matrix](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Stack
 |  |
 | ------- |
