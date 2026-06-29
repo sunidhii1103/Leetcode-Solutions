@@ -208,6 +208,7 @@ Problems are continuously added and updated as part of daily DSA practice and in
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [2965-find-missing-and-repeated-values](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
@@ -225,6 +226,7 @@ Problems are continuously added and updated as part of daily DSA practice and in
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Sliding Window
@@ -249,6 +251,7 @@ Problems are continuously added and updated as part of daily DSA practice and in
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0138-copy-list-with-random-pointer](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
