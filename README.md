@@ -251,6 +251,7 @@ Problems are continuously added and updated as part of daily DSA practice and in
 | [0144-binary-tree-preorder-traversal](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -283,11 +284,13 @@ Problems are continuously added and updated as part of daily DSA practice and in
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Design
 |  |
 | ------- |
@@ -298,4 +301,12 @@ Problems are continuously added and updated as part of daily DSA practice and in
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 <!---LeetCode Topics End-->
