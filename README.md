@@ -143,6 +143,7 @@ Problems are continuously added and updated as part of daily DSA practice and in
 | [0560-subarray-sum-equals-k](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2073-time-needed-to-buy-tickets](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2965-find-missing-and-repeated-values](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Greedy
 |  |
@@ -275,6 +276,7 @@ Problems are continuously added and updated as part of daily DSA practice and in
 | ------- |
 | [0054-spiral-matrix](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2073-time-needed-to-buy-tickets](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -301,6 +303,7 @@ Problems are continuously added and updated as part of daily DSA practice and in
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [2073-time-needed-to-buy-tickets](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Breadth-First Search
 |  |
 | ------- |
