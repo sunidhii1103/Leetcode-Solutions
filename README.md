@@ -252,6 +252,7 @@ Problems are continuously added and updated as part of daily DSA practice and in
 |  |
 | ------- |
 | [0079-word-search](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0079-word-search) |
+| [0110-balanced-binary-tree](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
@@ -287,12 +288,14 @@ Problems are continuously added and updated as part of daily DSA practice and in
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
