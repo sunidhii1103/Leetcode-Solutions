@@ -136,6 +136,7 @@ Problems are continuously added and updated as part of daily DSA practice and in
 | [0075-sort-colors](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -210,6 +211,7 @@ Problems are continuously added and updated as part of daily DSA practice and in
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Counting
@@ -298,6 +300,7 @@ Problems are continuously added and updated as part of daily DSA practice and in
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -309,6 +312,7 @@ Problems are continuously added and updated as part of daily DSA practice and in
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -335,6 +339,7 @@ Problems are continuously added and updated as part of daily DSA practice and in
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## String Matching
 |  |
