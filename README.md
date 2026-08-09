@@ -139,6 +139,7 @@ Problems are continuously added and updated as part of daily DSA practice and in
 | [0079-word-search](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -367,4 +368,8 @@ Problems are continuously added and updated as part of daily DSA practice and in
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
