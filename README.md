@@ -110,6 +110,7 @@ Problems are continuously added and updated as part of daily DSA practice and in
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -123,6 +124,7 @@ Problems are continuously added and updated as part of daily DSA practice and in
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0031-next-permutation) |
@@ -361,4 +363,8 @@ Problems are continuously added and updated as part of daily DSA practice and in
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
