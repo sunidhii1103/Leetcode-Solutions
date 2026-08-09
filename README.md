@@ -306,6 +306,7 @@ Problems are continuously added and updated as part of daily DSA practice and in
 | [0145-binary-tree-postorder-traversal](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
@@ -318,12 +319,14 @@ Problems are continuously added and updated as part of daily DSA practice and in
 | [0145-binary-tree-postorder-traversal](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Design
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Queue
 |  |
 | ------- |
@@ -340,6 +343,7 @@ Problems are continuously added and updated as part of daily DSA practice and in
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## String Matching
 |  |
@@ -349,4 +353,12 @@ Problems are continuously added and updated as part of daily DSA practice and in
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
