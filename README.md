@@ -105,6 +105,7 @@ Problems are continuously added and updated as part of daily DSA practice and in
 | [0287-find-the-duplicate-number](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0443-string-compression) |
+| [0455-assign-cookies](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## String
@@ -146,6 +147,7 @@ Problems are continuously added and updated as part of daily DSA practice and in
 | [0238-product-of-array-except-self](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0455-assign-cookies](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -159,6 +161,7 @@ Problems are continuously added and updated as part of daily DSA practice and in
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+| [0455-assign-cookies](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Sorting
 |  |
@@ -171,6 +174,7 @@ Problems are continuously added and updated as part of daily DSA practice and in
 | [0088-merge-sorted-array](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0455-assign-cookies](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0912-sort-an-array](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 ## Binary Search
 |  |
@@ -395,4 +399,8 @@ Problems are continuously added and updated as part of daily DSA practice and in
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0912-sort-an-array) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
