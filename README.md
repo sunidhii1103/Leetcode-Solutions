@@ -138,6 +138,7 @@ Problems are continuously added and updated as part of daily DSA practice and in
 | [0056-merge-intervals](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
@@ -249,6 +250,7 @@ Problems are continuously added and updated as part of daily DSA practice and in
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Recursion
 |  |
@@ -267,6 +269,7 @@ Problems are continuously added and updated as part of daily DSA practice and in
 | ------- |
 | [0039-combination-sum](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/sunidhii1103/Leetcode-Solutions/tree/master/0079-word-search) |
 ## Depth-First Search
 |  |
